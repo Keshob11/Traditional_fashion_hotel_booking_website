@@ -1,4 +1,4 @@
-# 🌿 Saasvat – One Step Closer to Nature
+# 🌿 Saasvat – One Step Close to Nature
 
 *Saasvat* is a beautifully crafted frontend website built using *HTML, **CSS, and **JavaScript, inspired by the serene and cultural vibe of **Shantiniketan*. It offers an immersive experience to explore and connect with the roots of nature, tradition, and art.
 
